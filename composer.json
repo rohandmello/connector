@@ -1,0 +1,21 @@
+{
+    "name": "dmellorohan/connector",
+    "description": "Php lib",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dmellorohan\\Connector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rohan Dmello",
+            "email": "dmellorohan@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.3"
+    }
+}
